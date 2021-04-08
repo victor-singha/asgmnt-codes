@@ -1,3 +1,2 @@
-# asgmnt-codes
-# shellscript codes ⚠
+# shellscripts ⚠
 fundamentals 💤
